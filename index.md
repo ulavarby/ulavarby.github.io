@@ -1,7 +1,6 @@
 ---
 layout: default
 lang: be-BY
-title: Маленькі буккросінг
 excerpt: Невялічкая падборка беларускіх электронных кніг для вольнага карыстання, belarusian books epub
 ---
 
