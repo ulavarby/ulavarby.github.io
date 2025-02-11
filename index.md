@@ -13,4 +13,4 @@ excerpt: Невялічкая падборка беларускіх электр
 
 [Сканаваныя старонкі \(pdf\)](https://drive.google.com/file/d/1iWbU8CVs3vCzLWN7l1MquFuszDCSBO7G/view){:target="_blank" rel="noopener"}
 
-[лакальна](./b/М. Багдановіч. Выбранае.epub)
+[лакальна](./b/'М. Багдановіч. Выбранае.epub')
