@@ -16,4 +16,4 @@ excerpt: Невялічкая падборка беларускіх электр
 [лакальна](
 https://github.com/ulavarby/ulavarby.github.io/blob/e08b1667e6181dd02338db9f23c49b61866e9ce4/b/%D0%9C.%20%D0%91%D0%B0%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D1%96%D1%87.%20%D0%92%D1%8B%D0%B1%D1%80%D0%B0%D0%BD%D0%B0%D0%B5.epub)
 
-[pdf](https://github.com/ulavarby/ulavarby.github.io/blob/783b96e8276390d3592eb24ba10fa41a75d548c6/b/%D0%9C.%20%D0%91%D0%B0%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D1%96%D1%87.%20%D0%92%D1%8B%D0%B1%D1%80%D0%B0%D0%BD%D0%B0%D0%B5.pdf)
+[pdf](https://github.com/ulavarby/ulavarby.github.io/p/783b96e8276390d3592eb24ba10fa41a75d548c6/b/%D0%9C.%20%D0%91%D0%B0%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D1%96%D1%87.%20%D0%92%D1%8B%D0%B1%D1%80%D0%B0%D0%BD%D0%B0%D0%B5.pdf)
