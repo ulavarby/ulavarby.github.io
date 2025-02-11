@@ -3,3 +3,5 @@ encoding: utf-8
 url: https://ulavarby.github.io
 permalink: pretty
 title: Невялічкая падборка беларускіх электронных кніг для вольнага карыстання.
+kramdown:
+  input: Kramdown
