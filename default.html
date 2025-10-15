@@ -7,6 +7,19 @@
     <title>{% if page.title %}{{ page.title | escape }}{% else %}}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     <link href='https://ulavarby.github.io' rel='canonical'/>
+    
+    <style>
+      r { color: Red }
+      o { color: Orange }
+      g { color: Green }
+      gr {color: Gray}
+      dg {color: Darkgrey }
+      ig {color: DimGray}
+      lsg {color: LightSlateGray}
+      sg {color: SlateGray}
+      dsg {color: DarkSlateGray}
+    </style>
+
   </head>
   <body>
     {{ content }}
