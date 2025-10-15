@@ -5,18 +5,6 @@ title: -= UNDER CONSTRUCTION =-  Тэксты і кнігі ў электрон�
 excerpt: Невялічкая падборка беларускіх электронных кніг для чытання і вольнага распаўсюду, belarusian books epub
 ---
 
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-gr {color: Gray}
-dg {color: Darkgrey }
-ig {color: DimGray}
-lsg {color: LightSlateGray}
-sg {color: SlateGray}
-dsg {color: DarkSlateGray}
-</style>
-
 <img src="https://ulavarby.github.io/b/%D0%9C.%20%D0%91%D0%B0%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D1%96%D1%87.%20%D0%92%D1%8B%D0%B1%D1%80%D0%B0%D0%BD%D0%B0%D0%B5.jpg" height="256" alt="вокладка">
 
 ## М. Багдановіч. Выбранае
