@@ -43,6 +43,6 @@ ${\color{red}Some \space text \space here}$
 
 ${\color{green}Some \space text \space here}$
 
-${\color{lightgreen}Light \space Green}$ <br>
+${\color{lightgreen}Light \space Green}$
 ```
 
