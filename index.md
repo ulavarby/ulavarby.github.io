@@ -26,8 +26,20 @@ excerpt: Невялічкая падборка беларускіх электр
 
 [Сканаваныя старонкі \(pdf\)](https://ulavarby.github.io/b/%D0%9C.%20%D0%91%D0%B0%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D1%96%D1%87.%20%D0%92%D1%8B%D0%B1%D1%80%D0%B0%D0%BD%D0%B0%D0%B5.pdf){:target="_blank" rel="noopener"}
 
-# TODOs:
+## TODOs:
 
-- <r>TODO:</r> Important thing to do
-- <o>TODO:</o> Less important thing to do
-- <g>DONE:</g> Breath deeply and improve karma
+- <r>Red: **BBB MMM XXX**</r>
+- <o>Orange: **BBB MMM XXX**</o>
+- <g>Green: **BBB MMM XXX**</g>
+- <gr>Gray: **BBB MMM XXX**</gr>
+- <dg>Darkgrey: **BBB MMM XXX**</dg>
+- <ig>DimGray: **BBB MMM XXX**</ig>
+- <ls>LightSlateGray: **BBB MMM XXX**</ls>
+- <sg>SlateGray: **BBB MMM XXX**</sg>
+- <dsg>DarkSlateGray: **BBB MMM XXX**</dsg>
+
+${\color{red}Some \space text \space here}$ <br>
+${\color{green}Some \space text \space here}$ <br>
+${\color{lightgreen}Light \space Green}$ <br>
+
+
