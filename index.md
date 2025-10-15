@@ -38,8 +38,9 @@ excerpt: Невялічкая падборка беларускіх электр
 - <sg>SlateGray: **BBB MMM XXX**</sg>
 - <dsg>DarkSlateGray: **BBB MMM XXX**</dsg>
 
+```markdown
 ${\color{red}Some \space text \space here}$ <br>
 ${\color{green}Some \space text \space here}$ <br>
 ${\color{lightgreen}Light \space Green}$ <br>
-
+```
 
