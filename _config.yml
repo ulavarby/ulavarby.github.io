@@ -2,6 +2,6 @@ lang: be-BY
 encoding: utf-8
 url: https://ulavarby.github.io
 permalink: pretty
-title: <r>Невялічкая падборка беларускіх электронных кніг для чытання і вольнага распаўсюду. <br /> -= UNDER CONSTRUCTION =-</r>
+title: <dsg>Невялічкая падборка беларускіх электронных кніг для чытання і вольнага распаўсюду. <br /> -= UNDER CONSTRUCTION =-</dsg>
 kramdown:
   input: Kramdown
