@@ -1,8 +1,7 @@
 ---
 layout: default
 lang: be-BY
-title: Тэксты і кнігі ў электронных фарматах  
--= UNDER CONSTRUCTION =-
+title: Тэксты і кнігі ў электронных фарматах <br /> -= UNDER CONSTRUCTION =-
 excerpt: Невялічкая падборка беларускіх электронных кніг для чытання і вольнага распаўсюду, belarusian books epub
 ---
 
